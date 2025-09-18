@@ -1,0 +1,8 @@
+# Logs gerados e binários
+access_log_large.txt
+*.dSYM/
+output/
+log_analyser_seq
+log_analyzer_par
+*.o
+*.out
